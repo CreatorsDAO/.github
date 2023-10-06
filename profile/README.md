@@ -1,15 +1,19 @@
+<!-- ----- Creators LOGO & Introduction... ----------  -->
+<!-- Creators logo 重复元素会不会太多了 lol --->
 <p align="center">
-    <!-- <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"> -->
-    <img src="https://github.com/CreatorsDAO/.github/assets/33189338/8d6ed78a-1861-46d7-95da-f55abbbb0e79")
-
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"> 
+    <!-- <img src="https://github.com/CreatorsDAO/.github/assets/33189338/8d6ed78a-1861-46d7-95da-f55abbbb0e79"  width="60%" />-->
 </p>
 
 <h1 align="center"><b>Hi there  👋🏻  &nbsp; We're Creators! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Let's+Create+together+in+CreatorsDAO..&hearts<3"></a>
 </p>
 
+
+
+<!-- ---------- Profile View ------------ -->
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Demian101&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
@@ -23,40 +27,27 @@
 	</a>
 </p>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About we**
+
+<!-- ---------- About we ------------ -->
 
 
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About we
 
 <picture> <img align="right" src="https://github.com/CreatorsDAO/.github/assets/33189338/58e7bf35-5e2c-4742-9f45-00ceea799b8e" width = 350px></picture>
 
 <br><br>
 
-> 706 Creators 是以「行动」、「产出」和「商业可持续」为导向的共学共创小组
+> <h4>706 Creators 是以「行动」、「产出」和「商业可持续」为导向的共学共创小组 </h4>
 >
-> 简单理解的话，它是区隔于 706 惯例的对话沙龙、讲座、知识分享等人文社科类活动，
+> <h4>简单理解的话，它是区隔于 706 惯例的对话沙龙、讲座、知识分享等人文社科类活动，</h4>
 >
-> 而衍生出来的更偏创意、技术、共建创造的分支，
+> <h4>而衍生出来的更偏创意、技术、共建创造的分支，</h4>
 >
-> <h5>706 creators create something together.  </h5>
+> <h3>706 creators create something together.  </h3>
 
 <br>
 
 
-
-
-
-
-<!-- 1111 -->
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-<h5>
-     
 
 <br>
 <br>
