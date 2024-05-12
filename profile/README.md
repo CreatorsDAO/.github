@@ -1,6 +1,6 @@
 ### 🥳 Hi there!
 
-This is Creators Community which focus on building creative things and tech products through diverse range of co-learning topics, including:
+This is Creators Community focused on building creative things and tech products through diverse range of co-learning topics, including:
 
 - **⛓ Blockchain**: covering Ethereum, Solana, Sui, and other blockchain protocols;
 - **🗝 Zero-knowledge proofs**: including foundamental theories of zk circuit, implementing Plonk using python, delving into advanced zk protocols like Halo2;
