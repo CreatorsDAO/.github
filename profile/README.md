@@ -1,4 +1,4 @@
-🥳 Hi there!
+### 🥳 Hi there!
 
 This is Creators Community which focus on building creative things and tech products through diverse range of co-learning topics, including:
 
@@ -28,7 +28,7 @@ BTC | XR | Plasmo(Browser Plugin) | Web3 Front-End | AI x Design | Abstract Alge
 
 If you want to intiate a co-learning program, please feel free to reach out to us. We're pleasure to assist you in making it a reality by promoting the program and providing you with the `Co-learning Protocol`. 👇🏻
 
-## Open-source Framework
+## Co-learning Protocol
 > Co-learning protocol: An open-source facilitation framework of collective learning. Here we would like to thank SoP and GCC for providing grant in Apr.2024 for this protocol. 👐
 
 Co-learning is the abbreviation of collective learning, also referred to group learning, or collaborative learning. It is a practice where participants collectively select topics, engage in learning and communication, take action, and reflect on the entire process.
