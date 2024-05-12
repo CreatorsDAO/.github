@@ -1,4 +1,4 @@
-## 🥳 Hi there!
+### 🥳 Hi there!
 
 This is Creators Community which focus on building creative things and tech products through diverse range of co-learning topics, including:
 
