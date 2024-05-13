@@ -1,4 +1,4 @@
-### 🥳 Hi there!
+# 🥳 Hi,this is CreatorsDAO Community!
 
 This is Creators Community focused on building creative things and tech products through diverse range of co-learning topics, including:
 
