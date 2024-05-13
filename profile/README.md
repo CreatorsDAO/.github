@@ -14,7 +14,7 @@ We're focused on building creative things and tech products through diverse rang
 
 We have over 130,000 subscribers on wechat which is the biggest social media platform in China and we have accumulated about 800 participants in total in our co-learning activities.
 
-
+---
 
 ## Co-learning Repos
 > Some co-learning topics don't involve coding. In such cases, we use Notion to facilitate co-learning activities. 
