@@ -1,4 +1,4 @@
-### 🥳 Hi, this is Creators Community!
+## 🥳 Hi, this is Creators Community!
 
 We're focused on building creative things and tech products through diverse range of co-learning topics, including:
 
