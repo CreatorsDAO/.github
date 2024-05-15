@@ -36,7 +36,7 @@ BTC | XR | Plasmo(Browser Plugin) | Web3 Front-End | AI x Design | Abstract Alge
 
  [MoveFlow](https://github.com/Move-Flow),  originated from Move Co-learning, is a programmable payment protocolwhich enables pre-defined transaction rules based on time and events. Backed by [Aptos](https://twitter.com/Aptos) and [OVioHQ](https://twitter.com/OVioHQ).
 
-[z2o-k7e](https://github.com/z2o-k7e),orginated from ZKP Co-learning, is a community-driven project dedicated to zkp-tutorial writing, and the mission of z2o-k7e is to enhance the quality of ZKP Public Goods.
+[z2o-k7e](https://github.com/z2o-k7e), originated from ZKP Co-learning, is a community-driven project dedicated to zkp-tutorial writing, and the mission of z2o-k7e is to enhance the quality of ZKP Public Goods. [@Kurt](https://github.com/kurtpan666) and [@Demian](https://github.com/Demian101) are the main maintainers of the repo.
 
 ## Contact Us
 
