@@ -18,7 +18,7 @@ We have over 130,000 subscribers on wechat which is the biggest social media pla
 ## Co-learning Repos
 > Some co-learning topics don't involve coding. In such cases, we use Notion to facilitate co-learning activities. 
 
-[Web3 Procotol](https://github.com/CreatorsDAO/web3-protocol-co-learn) | [Solana](https://github.com/CreatorsDAO/solana-co-learn) | [Move](https://github.com/CreatorsDAO/move-co-learn) | [Zero-knowledge proofs](https://learn.z2o-k7e.world/) | [Unity](https://706community.notion.site/Unity-894502bf520540a1a5baeafcfbe4a6d6) | [FOCGs](https://706community.notion.site/On-Chain-Gaming-1-6844e99b9a3c4bebbe74787dde87713b) | [Figma UI/UX](https://706community.notion.site/Figma-1-6ada04ba93234b90b05e0df1eddbca02?pvs=25) |  [Web3 English](https://706community.notion.site/Web3-2-f1aa5c73ac9446d0a17ff000158a4837) | [Tokenomics](https://706community.notion.site/Tokenomics-059b04e151e847729fcd3c5ae05b72a0)
+[Web3 Procotol](https://github.com/CreatorsDAO/web3-protocol-co-learn) | [Solana](https://github.com/CreatorsDAO/solana-co-learn) | [Move](https://github.com/CreatorsDAO/move-co-learn) | [Zero-knowledge proofs](https://learn.z2o-k7e.world/) | [Unity](https://706community.notion.site/Unity-894502bf520540a1a5baeafcfbe4a6d6) | [Fully On-chian Gamings](https://706community.notion.site/On-Chain-Gaming-1-6844e99b9a3c4bebbe74787dde87713b) | [Figma UI/UX](https://706community.notion.site/Figma-1-6ada04ba93234b90b05e0df1eddbca02?pvs=25) |  [Web3 English](https://706community.notion.site/Web3-2-f1aa5c73ac9446d0a17ff000158a4837) | [Tokenomics](https://706community.notion.site/Tokenomics-059b04e151e847729fcd3c5ae05b72a0)
 
 #### Upcoming
 
@@ -36,6 +36,7 @@ BTC | XR | Plasmo(Browser Plugin) | Web3 Front-End | AI x Design | Abstract Alge
 
  [MoveFlow](https://github.com/Move-Flow),  originated from Move Co-learning, is a programmable payment protocolwhich enables pre-defined transaction rules based on time and events. Backed by [Aptos](https://twitter.com/Aptos) and [OVioHQ](https://twitter.com/OVioHQ).
 
+[z2o-k7e](https://github.com/z2o-k7e),orginated from ZKP Co-learning, is a community-driven project dedicated to zkp-tutorial writing, and the mission of z2o-k7e is to enhance the quality of ZKP Public Goods.
 
 ## Contact Us
 
